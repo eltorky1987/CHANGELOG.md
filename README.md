@@ -4,3 +4,4 @@
 - Added README.md with bilingual description (Arabic/English).
 - Prepared project structure for future updates.
 - 
+Add CHANGELOG.md to track updates
